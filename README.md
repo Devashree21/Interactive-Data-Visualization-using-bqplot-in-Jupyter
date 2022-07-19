@@ -1,6 +1,6 @@
 # Interactive-Data-Visualization-using-bqplot-in-Jupyter
 
-Exploring Data Visualization in Altair: An Interesting Alternative to Seaborn
+Exploring Data Visualization in bqplot
 
 **Here is a short FAQ about this repository**
 
